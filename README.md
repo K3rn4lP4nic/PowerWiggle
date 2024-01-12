@@ -1,5 +1,5 @@
 
-<img title="powerwiggle" alt="powerwiggle" src="https://github.com/K3rn4lP4nic/powerwiggle/blob/main/powerwiggle.png">
+<img title="powerwiggle" alt="powerwiggle" src="https://github.com/K3rn4lP4nic/PowerWiggle/blob/main/PowerWiggle.png">
 
                                                                                           
 # Powerwiggle
